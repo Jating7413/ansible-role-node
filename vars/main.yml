@@ -1,0 +1,4 @@
+---
+# vars file for node
+node_version: 6.9.0
+user_name: bbc
